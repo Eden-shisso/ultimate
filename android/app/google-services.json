@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "401702896947",
+    "firebase_url": "https://one-piece-e93be.firebaseio.com",
+    "project_id": "one-piece-e93be",
+    "storage_bucket": "one-piece-e93be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401702896947:android:3b6ce47100ea600c496a46",
+        "android_client_info": {
+          "package_name": "com.example.ultimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401702896947-tj8a4o3berphkknhj7gu0jlsukvnm14i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEGQ2H9xKL7fi2rws-Vxlo-kPC1nrpdTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401702896947-tj8a4o3berphkknhj7gu0jlsukvnm14i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
